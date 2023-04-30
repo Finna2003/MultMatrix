@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "KXJkYwYqfJn/sybRX4Pxtl82OANPxZQOxl0dryb4Xf5FAZRwpKe8Q06STyCNIeuld2d6TYccHyDm/DgcGN45xw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Инна\\program\\lab_6\\MultMatrix\\MultMatrix\\MultMatrix.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Инна\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512",
+    "C:\\Users\\Инна\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Инна\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Инна\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
